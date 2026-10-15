@@ -1,0 +1,22 @@
+{
+  "name": "3d-printing",
+  "version": "1.0.0",
+  "description": "Knowledge skills for FDM 3D printing: filament types and sourcing, drying and storage, printer maintenance, recycling, finding and repairing models, code CAD with build123d, and publishing models to Printables, MakerWorld and Thingiverse. Written around a Bambu Lab A1 but mostly printer-neutral.",
+  "author": {
+    "name": "John Randall",
+    "url": "https://github.com/johntrandall"
+  },
+  "homepage": "https://github.com/johntrandall/claude-plugin-3d-printing",
+  "repository": "https://github.com/johntrandall/claude-plugin-3d-printing",
+  "license": "MIT",
+  "keywords": [
+    "3d-printing",
+    "fdm",
+    "filament",
+    "bambu-lab",
+    "build123d",
+    "cad",
+    "printables",
+    "makerworld"
+  ]
+}
